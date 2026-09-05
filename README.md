@@ -85,6 +85,8 @@ One thing worth flagging: the muted line underneath ("Please leave. Take the pig
 This diagram illustrates the user journey through the Vamsha Vishakalanam website, from landing on the site to receiving a result. The flow begins at the **Title Screen**, where the user is introduced to the project name, and proceeds to the **About Screen**, which explains the mythology and premise behind the app. From there, the user reaches the **Upload Screen**, where they submit a photograph for review. Once submitted, the site moves into an **Analyzing** stage, representing the loading sequence where the photo is evaluated. Based on the outcome, the flow branches in one of two directions: if the photo is not identified as a crow, the user is taken to the **Rejected** screen, displaying the message "No Departed Soul Detected"; if it is confirmed as a crow, the user instead reaches the **Result** screen, showing the generated Ancestral Certificate with the crow's identity details. In both cases, the user is looped back to the Upload Screen, allowing them to submit another photograph and repeat the process.
 
 
+# Video Demo
+Screen Recording 2026-09-05 at 10.00.30 PM.mov
 
 
 ## Team Contributions
